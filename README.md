@@ -1,3 +1,6 @@
+> **Note**
+> Use [`crypto.randomUUID()`](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/randomUUID) instead.
+
 # uuid
 
 Generate a UUID v4.
